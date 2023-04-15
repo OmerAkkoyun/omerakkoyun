@@ -6,6 +6,9 @@
 
 <h2 align="left">Hi 👋! My name is Omer and I'm a Android Developer, from Istanbul/TURKEY</h2>
 
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=omerakkoyun&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerakkoyun&layout=compact&theme=dark" />
+</p>
 ###
 
 <p align="left">👨🏽‍💻 I’m currently working on improving my techskill;</p>
