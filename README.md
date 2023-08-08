@@ -1,10 +1,10 @@
+
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/C4E03AQEkhWTSEeC0Cg/profile-displayphoto-shrink_400_400/0/1652707245164?e=1685577600&v=beta&t=-8TR81Mx45gJV5ZPquJ9dbqapaY-WGBtjsFJJTz2hhE"  />
+  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140">
 </div>
 
 ###
-
-<h2 align="left">Hi 👋! My name is Omer and I'm a Android Developer, from Istanbul/TURKEY</h2>
+<h2 align="left">Hi 👋! I am Omer and I'm a Android Developer, from Istanbul/TURKEY</h2>
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=omerakkoyun&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerakkoyun&layout=compact&theme=dark" />
