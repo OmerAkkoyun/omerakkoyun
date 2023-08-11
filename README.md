@@ -49,6 +49,9 @@ My Android Apps
 <code><a href="https://play.google.com/store/apps/developer?id=TORNADO+Apps" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-tile.svg"></a></code>
 
 <div align="center">
+   <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  />
+</div>
+<div align="center">
   <img src="https://profile-counter.glitch.me/OmerAkkoyun/count.svg?"  />
 </div>
 
