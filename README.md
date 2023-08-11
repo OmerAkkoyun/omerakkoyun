@@ -41,7 +41,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/OmerAkkoyun/OmerAkkoyun/blob/output/snake.svg" alt="" />
+
+
+<p align="left">♥️ I use these while developing Android projects:<br>Java, Kotlin, MVVM, Flow, View Binding, Data Binding, Animations,<br> Dagger 2 / Hilt, Coroutine Scopes, Retrofit, Glide, Room, SQLite,<br>Firebase Analytics-Crashlytics, Live Data, ViewModel, Navigation.</p>
 
 ###
 My Android Apps
