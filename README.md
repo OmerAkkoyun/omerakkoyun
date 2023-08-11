@@ -1,15 +1,15 @@
 
 <div align="center">
-  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="140">
+  <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 </div>
 
 ###
-<h2 align="left">Hi 👋! I am Omer and I'm a Android Developer, from Istanbul/TURKEY</h2>
+# Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Ömer](https://github.com/OmerAkkoyun)
 
 <p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=omerakkoyun&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerakkoyun&layout=compact&theme=dark" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerakkoyun&layout=compact&theme=dark" />
 </p>
-###
+
 
 <p align="left">👨🏽‍💻 I’m currently working on improving my techskill;</p>
 
@@ -44,7 +44,7 @@
 <img src="https://raw.githubusercontent.com/OmerAkkoyun/OmerAkkoyun/blob/output/snake.svg" alt="" />
 
 ###
-My Apps
+My Android Apps
 ###
 <code><a href="https://play.google.com/store/apps/developer?id=TORNADO+Apps" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-tile.svg"></a></code>
 
