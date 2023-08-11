@@ -45,15 +45,19 @@
 
 <p align="left">♥️ I use these while developing Android projects:<br>Java, Kotlin, MVVM, Flow, View Binding, Data Binding, Animations,<br> Dagger 2 / Hilt, Coroutine Scopes, Retrofit, Glide, Room, SQLite,<br>Firebase Analytics-Crashlytics, Live Data, ViewModel, Navigation.</p>
 
-###
-My Android Apps
-###
+<h3 align="left">LinkedIn</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmetyusufseymen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ömer-akkoyun-551a68116/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">My Android Apps</h3>
+
 <code><a href="https://play.google.com/store/apps/developer?id=TORNADO+Apps" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_play/google_play-tile.svg"></a></code>
 
-<div align="center">
+<div align="left">
    <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  />
 </div>
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/OmerAkkoyun/count.svg?"  />
 </div>
 
